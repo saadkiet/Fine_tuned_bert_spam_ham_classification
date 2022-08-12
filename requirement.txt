@@ -1,3 +1,11 @@
 streamlit==1.11.0
 torch==1.10.2
 transformers==4.18.0
+
+Pillow
+jax[cpu]
+flax
+transformers
+huggingface_hub
+googletrans==4.0.0-rc1
+protobuf==3.20
