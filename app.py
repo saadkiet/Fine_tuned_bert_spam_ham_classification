@@ -2,7 +2,7 @@ import streamlit as st
 import numpy as np
 import transformers
 from transformers import BertTokenizer, BertForSequenceClassification
-import pytorch
+import torch
 
 @st.cache(allow_output_mutation=True)
 def get_model():
