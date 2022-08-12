@@ -1,4 +1,4 @@
-!pip install transformersimport streamlit as st
+pip install transformersimport streamlit as st
 import streamlit as st
 import numpy as np
 from transformers import BertTokenizer, BertForSequenceClassification
