@@ -1,9 +1,3 @@
 torch
 transformers
-streamlit==111.0
-Pillow
-jax[cpu]
-flax
-huggingface_hub
-googletrans==4.0.0-rc1
-protobuf==3.20
+streamlit==1.11.0
