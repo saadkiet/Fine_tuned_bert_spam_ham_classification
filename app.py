@@ -1,3 +1,4 @@
+conda install -c huggingface transformers
 import streamlit as st
 import numpy as np
 from transformers import BertTokenizer, BertForSequenceClassification
