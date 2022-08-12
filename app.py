@@ -1,6 +1,6 @@
 import streamlit as st
 import numpy as np
-from transformers import BertTokenizer, BertForSequenceClassification
+#from transformers import BertTokenizer, BertForSequenceClassification
 import torch
 
 @st.cache(allow_output_mutation=True)
